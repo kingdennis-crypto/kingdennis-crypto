@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👨🏻‍💻 I `code` my projects with **Typescript**, **Java**, **Nextjs**, **MySQL**
+- 📚 I’m currently `learning` **Java** and **Linear Algebra**
+- ⚡ Fun fact: I switch from editor every other week :D
+
 <!--
 **kingdennis-crypto/kingdennis-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
