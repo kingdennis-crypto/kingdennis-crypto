@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I `code` my projects with **Typescript**, **Java**, **Nextjs**, **MySQL**
-- 📚 I’m currently `learning` **Java** and **Linear Algebra**
+- 👨🏻‍💻 I `code` my projects with **Typescript**, **Java**, **Nextjs**
+- 📚 I’m currently `learning` **PostgreSQL** and **MongoDB**
 - ⚡ Fun fact: I switch from editor every other week :D
 
 <!--
